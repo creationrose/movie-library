@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MovieLibrary()
+comment0.text=\n\ Creates\ a\ MovieLibrary\n
+comment1.params=title\ runLength
+comment1.target=void\ addMovie(java.lang.String,\ int)
+comment1.text=\n\ Add\ a\ new\ movie\ to\ the\ collection\n
+comment2.params=movie
+comment2.target=void\ addMovie(Movie)
+comment2.text=\n\ Add\ existing\ movies\ to\ the\ collection\n
+comment3.params=
+comment3.target=void\ printMovie()
+comment3.text=\n\ Print\ information\ on\ movies\n
+numComments=4
